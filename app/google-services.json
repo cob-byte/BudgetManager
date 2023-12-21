@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "957793984261",
+    "firebase_url": "https://budget-manager-258a6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "budget-manager-258a6",
+    "storage_bucket": "budget-manager-258a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957793984261:android:4ac162afeb274a1f1da16c",
+        "android_client_info": {
+          "package_name": "com.example.budgetmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957793984261-cqmoqm03ihq1ccu6bi6qt7orfvr1l5rn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMtxwsNHP8za2I9rqAepTYhKkaC-gZ-oA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957793984261-cqmoqm03ihq1ccu6bi6qt7orfvr1l5rn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
